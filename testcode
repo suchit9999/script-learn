@@ -8,7 +8,7 @@ sleep 2
 echo "Please enter the directory whose content directory you want to see"
 read NAME
 
-cd$NAME
+cd $NAME
 pwd
-ll -l | grep '^d'
+ls -l | grep '^d' 
 
