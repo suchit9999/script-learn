@@ -1,14 +1,14 @@
 #!/bin/bash
 
-echo "this is the second script to check the git function "
+echo "this is the second script to check the git function "   #//message showing to user for interaction
 
 sleep 2
 echo "we will check the command to be run for the present working directory and directories in it"
 sleep 2
-echo "Please enter the directory whose content directory you want to see"
+echo "Please enter the directory whose content directory you want to see"  
 read NAME
 
-cd $NAME
-pwd
+cd $NAME                     #//shell command
+pwd                              #//shell command
 ls -l | grep '^d' 
 
