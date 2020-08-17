@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "this is the first script to check the git function "
+echo "this is the First script to check the git function "
 
 sleep 2
 echo "we will check the command to be run for the present working directory and directories in it"
