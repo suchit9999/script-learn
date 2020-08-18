@@ -11,4 +11,4 @@ read NAME
 cd $NAME                     #//shell command
 pwd                              #//shell command
 ls -l | grep '^d' 
-whoami
+ whoiam
