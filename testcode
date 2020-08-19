@@ -1,5 +1,5 @@
 #!/bin/bash
-test by sumit
+test by sumit resolved in conflict
 echo "this is the First script to check the git function "
 
 sleep 2
