@@ -1,5 +1,5 @@
 #!/bin/bash
-
+user test by sumit user
 echo "this is the First script to check the git function "
 
 sleep 2
