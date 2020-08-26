@@ -7,7 +7,7 @@ echo "we will check the command to be run for the present working directory and 
 sleep 2
 echo "Please enter the directory whose content directory you want to see"
 read NAME
-
+sumit is making new stash 
 cd $NAME
 pwd
 ls -l | grep '^d' 
